@@ -1,0 +1,11 @@
+{
+    "acc_clean": 0.8235999941825867,
+    "acc_before": 0.8235999941825867,
+    "acc_after_finetune": 0.8220000267028809,
+    "acc_after_approx": 0.8185999989509583,
+    "acc_diff": 0.004999995231628418,
+    "diverged": false,
+    "n_gradients": 402,
+    "unlearning_duration_s": 50.138074493035674,
+    "finetune_duration_s": 9.354940205987077
+}

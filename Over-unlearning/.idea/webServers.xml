@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6cc6c28a-cf0e-4821-9f70-9c5b133c9df3" name="server_1">
+        <fileTransfer rootFolder="/home/shiming" accessType="SFTP" host="202.121.181.119" port="222" sshConfigId="59971c45-7b57-4ae9-8729-7670e7243cc1" sshConfig="shiming@202.121.181.119:222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
