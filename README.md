@@ -14,6 +14,8 @@ $ pip install numpy==1.21.6
 
 更多环境参考environment.yml
 
+将cifar文件夹 解压 放在train_test_data 文件夹下
+
 ### Train: 
 
 现在已有的process过的数据是cifar10：
